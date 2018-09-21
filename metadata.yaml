@@ -1,0 +1,25 @@
+_repo: Tarzan-apinain-kuningas-Seikkailuromaani-Afrikan-aarniometsista_53984
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2017-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53984'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tarzan, apinain kuningas
+
+  Seikkailuromaani Afrikan aarniometsistä'
+url: http://www.gutenberg.org/ebooks/53984
